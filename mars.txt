@@ -1,0 +1,6 @@
+This is the first planet for our Git Workshop as part of the MSc in Applied Bioinformatics
+
+We are going to use, planets as first example
+
+Mars is the fourth planet from the Solar System.
+Mars is often referred to as the "Red Planet".
